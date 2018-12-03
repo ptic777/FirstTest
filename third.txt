@@ -1,0 +1,4 @@
+My 3 file in GIT
+final file
+
+New text
